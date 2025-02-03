@@ -12,8 +12,9 @@
    </a>
 <p align='left'>
    📫 gmail: <a href='mailto:spartak042006@gmail.com'>spartak042006@gmail.com</a>
-</p>    
-
+</p>  
+  
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## <img src="https://github.com/user-attachments/assets/a26043b3-01d8-4810-b528-0cd0fe2485a4" width="30" height="30"> Цель
 Backend разработка web-приложений на java
